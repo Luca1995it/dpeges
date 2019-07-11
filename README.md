@@ -9,7 +9,7 @@ This works is a porting of the `dpeges` indicators by `pascalz` (https://github.
 # Getting started
 ## Import the components
 ```javascript
-import { DPE, GES } from './dpegesComponent';
+import { DPE, GES } from './react-dpeges'
 ```
 
 ## Use them with numerical values
