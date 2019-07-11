@@ -1,4 +1,4 @@
-# dpeges
+# react-dpeges
 Simple React implementation of `dpeges` indicators.
 DPE : Diagnostic de performance énergétique (Energy Performance Diagnostic)
 GES : Gaz à effet de serre (Greenhouse Gas Emissions)
